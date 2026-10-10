@@ -1,1 +1,3 @@
 # vgmusiclib
+
+BPM and key data provided by <a href="https://getsongbpm.com">GetSongBPM.com</a>.
